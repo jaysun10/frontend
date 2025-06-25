@@ -54,12 +54,12 @@ const ProfilePage = () => {
       "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691258/15_h0bnae.jpg"
             ],
             services: ["Dinner Dates", "Social Events", "Travel Companion"],
-            location: "Manhattan",
+            location: "Pensilvania",
             availability: "By Appointment",
             isPremium: true,
             contactInfo: {
               whatsapp: "+1234567890",
-              telegram: "@sophia_companion",
+              telegram: "@midnightqueenss",
               phone: "+1234567890"
             }
           },
@@ -77,12 +77,12 @@ const ProfilePage = () => {
              "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691312/22_hdbomg.jpg"
             ],
             services: ["City Tours", "Entertainment Events", "Casual Dining"],
-            location: "Brooklyn",
+            location: "Huntington lewistown",
             availability: "Flexible Schedule",
             isPremium: false,
             contactInfo: {
               whatsapp: "+1234567891",
-              telegram: "@isabella_fun",
+              telegram: "@midnightqueenss",
               phone: "+1234567891"
             }
           }

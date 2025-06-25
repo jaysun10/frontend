@@ -136,7 +136,7 @@ const HomePage = () => {
         setWebsiteSettings({
           contactInfo: {
             whatsapp: "+1234567890",
-            telegram: "@midnightqueens",
+            telegram: "@midnightqueenss",
             phone: "+1234567890"
           },
           businessInfo: {
