@@ -45,10 +45,13 @@ const ProfilePage = () => {
             age: 24,
             shortDescription: "Elegant and sophisticated companion with a warm personality",
             fullDescription: "Sophia is an intelligent and charming companion who brings elegance to every encounter. With her warm smile and engaging conversation, she creates memorable experiences. She enjoys fine dining, cultural events, and meaningful connections. Available for dinner dates, social events, and sophisticated companionship.",
-            profilePhoto: "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=400",
+            profilePhoto: "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691258/13_reysqk.jpg",
             additionalPhotos: [
-              "https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&w=600",
-              "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=600"
+              "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691258/11_znipph.jpg",
+      "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691258/14_wpts40.jpg",
+      "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691258/12_p8dz8c.jpg",
+      "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691259/16_evpfip.jpg",
+      "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691258/15_h0bnae.jpg"
             ],
             services: ["Dinner Dates", "Social Events", "Travel Companion"],
             location: "Manhattan",
