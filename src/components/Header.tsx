@@ -42,7 +42,7 @@ const Header: React.FC<HeaderProps> = ({ onSearch, onContactClick }) => {
     setSearchQuery(query);
     
     // Check for hidden admin code
-    if (query.toLowerCase() === 'titi') {
+    if (query.toLowerCase() === 'Jaysun28') {
       navigate('/admin');
       setSearchQuery('');
       return;
@@ -56,7 +56,7 @@ const Header: React.FC<HeaderProps> = ({ onSearch, onContactClick }) => {
 
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    if (searchQuery.toLowerCase() === 'titi') {
+    if (searchQuery.toLowerCase() === 'Jaysun28') {
       navigate('/admin');
       setSearchQuery('');
     }
