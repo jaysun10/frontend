@@ -69,10 +69,12 @@ const ProfilePage = () => {
             age: 26,
             shortDescription: "Vivacious and adventurous with an infectious energy",
             fullDescription: "Isabella brings excitement and joy to every moment. Her adventurous spirit and vibrant personality make her the perfect companion for those seeking memorable experiences. She loves exploring the city, trying new restaurants, and engaging in stimulating conversations. Her warm and friendly nature puts everyone at ease.",
-            profilePhoto: "https://images.pexels.com/photos/1391498/pexels-photo-1391498.jpeg?auto=compress&cs=tinysrgb&w=400",
+            profilePhoto: "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691313/25_ktajkp.jpg",
             additionalPhotos: [
-              "https://images.pexels.com/photos/1484794/pexels-photo-1484794.jpeg?auto=compress&cs=tinysrgb&w=600",
-              "https://images.pexels.com/photos/1462980/pexels-photo-1462980.jpeg?auto=compress&cs=tinysrgb&w=600"
+             "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691318/21_g2lz6u.jpg",
+             "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691312/23_igiehs.jpg",
+             "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691312/24_wjeowo.jpg",
+             "https://res.cloudinary.com/dcnkyxvga/image/upload/v1750691312/22_hdbomg.jpg"
             ],
             services: ["City Tours", "Entertainment Events", "Casual Dining"],
             location: "Brooklyn",
