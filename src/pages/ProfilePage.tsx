@@ -59,7 +59,7 @@ const ProfilePage = () => {
             isPremium: true,
             contactInfo: {
               whatsapp: "+1234567890",
-              telegram: "@midnightqueenss",
+              telegram: "@midnightqueensss",
               phone: "+1234567890"
             }
           },
@@ -82,7 +82,7 @@ const ProfilePage = () => {
             isPremium: false,
             contactInfo: {
               whatsapp: "+1234567891",
-              telegram: "@midnightqueenss",
+              telegram: "@midnightqueensss",
               phone: "+1234567891"
             }
           }

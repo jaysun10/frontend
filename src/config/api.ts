@@ -11,7 +11,7 @@ export const APP_CONFIG = {
   TAGLINE: import.meta.env.VITE_APP_TAGLINE || 'Premium Adult Services',
   CONTACT: {
     WHATSAPP: import.meta.env.VITE_CONTACT_WHATSAPP || '+1234567890',
-    TELEGRAM: import.meta.env.VITE_CONTACT_TELEGRAM || '@midnightqueens',
+    TELEGRAM: import.meta.env.VITE_CONTACT_TELEGRAM || '@midnightqueenss',
     PHONE: import.meta.env.VITE_CONTACT_PHONE || '+1234567890',
   }
 } as const;
