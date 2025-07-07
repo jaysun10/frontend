@@ -86,9 +86,9 @@ const AdminPage = () => {
       // Fallback settings
       setWebsiteSettings({
         contactInfo: {
-          whatsapp: "+1234567890",
-          telegram: "@midnightqueenss",
-          phone: "+1234567890"
+         whatsapp: "+1(731)259-3855",
+         telegram: "@midnightqueenss",
+         phone: "(415)484-7233"
         },
         businessInfo: {
           name: "Midnight Queens",
