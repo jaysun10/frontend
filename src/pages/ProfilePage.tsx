@@ -81,9 +81,9 @@ const ProfilePage = () => {
             availability: "Flexible Schedule",
             isPremium: false,
             contactInfo: {
-              whatsapp: "+1234567891",
+         whatsapp: "+1(731)259-3855",
               telegram: "@midnightqueenss",
-              phone: "+1234567891"
+              phone: "(415)484-7233"
             }
           }
         ];
