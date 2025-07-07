@@ -60,7 +60,7 @@ const ProfilePage = () => {
             contactInfo: {
               whatsapp: "+1(731)259-3855",
               telegram: "@midnightqueenss",
-              phone: "+1234567890"
+              phone: "(415)484-7233"
             }
           },
           {
