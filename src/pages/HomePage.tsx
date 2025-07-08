@@ -136,7 +136,7 @@ const HomePage = () => {
         setWebsiteSettings({
           contactInfo: {
          whatsapp: "+1(731)259-3855",
-         telegram: "@midnightqueenss",
+         telegram: "@midnightqueens",
          phone: "(415)484-7233"
           },
           businessInfo: {
